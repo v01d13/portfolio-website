@@ -1,0 +1,18 @@
+.divAbout {
+  position: absolute;
+  width: 40%;
+  height: 40%;
+  right: 35%;
+  bottom: 35%;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  background-color: #dcae96;
+  -moz-box-shadow: inset 0 0 10px white;
+  -webkit-box-shadow: inset 0 0 10px white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}

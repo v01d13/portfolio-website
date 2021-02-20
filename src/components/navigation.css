@@ -1,0 +1,76 @@
+* {
+  font-family: "Ubuntu", "Segoe UI", "Roboto", "Oxygen", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+.gradientNav {
+  opacity: 1;
+  border-top: 1px solid #e7e7e7;
+  padding: 5px;
+  position: absolute;
+  left: 0;
+  bottom: 90%;
+  height: 10%;
+  width: 100%;
+  background: linear-gradient(
+    -45deg,
+    rgba(238, 119, 82, 1),
+    rgba(231, 60, 115, 1),
+    rgba(35, 166, 213, 1),
+    rgba(35, 213, 171, 1)
+  );
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 15s ease infinite;
+  -moz-animation: Gradient 15s ease infinite;
+  animation: Gradient 15s ease infinite;
+}
+
+.paused {
+  -webkit-animation-play-state: paused; /* Safari 4.0 - 8.0 */
+  animation-play-state: paused;
+  opacity: 1;
+}
+
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+  50% {
+    background-position: 100% 50%;
+    opacity: 1;
+  }
+  100% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+  50% {
+    background-position: 100% 50%;
+    opacity: 1;
+  }
+  100% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+}
+
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+  50% {
+    background-position: 100% 50%;
+    opacity: 1;
+  }
+  100% {
+    background-position: 0% 50%;
+    opacity: 1;
+  }
+}
