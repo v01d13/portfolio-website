@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4ab33ba4.chunk.css",
+    "main.js": "/portfolio/static/js/main.331efa68.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.331efa68.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.05f201a8.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.05f201a8.js.map",
+    "static/js/2.dc30e4da.chunk.js": "/portfolio/static/js/2.dc30e4da.chunk.js",
+    "static/js/2.dc30e4da.chunk.js.map": "/portfolio/static/js/2.dc30e4da.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.4ab33ba4.chunk.css.map": "/portfolio/static/css/main.4ab33ba4.chunk.css.map",
+    "static/js/2.dc30e4da.chunk.js.LICENSE.txt": "/portfolio/static/js/2.dc30e4da.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/winter-landscape.1090982a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f201a8.js",
+    "static/js/2.dc30e4da.chunk.js",
+    "static/css/main.4ab33ba4.chunk.css",
+    "static/js/main.331efa68.chunk.js"
+  ]
+}
